@@ -1,1 +1,0 @@
-python3 getdata2.py
